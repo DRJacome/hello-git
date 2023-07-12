@@ -1,3 +1,5 @@
 # hello-git
 Segunda prueba de curso GIT/GITHUB
-### Modificación local (local main)
+## Modificado desde GITHUB
+
+### Modificado desde main local
